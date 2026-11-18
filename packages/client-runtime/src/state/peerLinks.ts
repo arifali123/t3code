@@ -39,7 +39,8 @@ export function createPeerLinkEnvironmentAtoms<R, E>(
         key: ({ environmentId, input }) =>
           JSON.stringify([environmentId, input.threadId, input.turnItemId]),
       },
-      onSuccess: ({ environmentId }, registry) =>
+      // Also after a failure: an agent may have unlinked the machine the card still showed.
+      onSettled: ({ environmentId }, registry) =>
         Effect.sync(() => registry.refresh(list({ environmentId, input: {} }))),
     }),
   };
