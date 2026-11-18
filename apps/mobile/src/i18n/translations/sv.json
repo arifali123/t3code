@@ -81,6 +81,7 @@
   "289ec1df10840137": "Kunde inte länka: den andra miljön nekade",
   "21be308917bd450e": "Kunde inte länka: {failure}",
   "acd01e781e2355cc": "Begäran avslutades",
+  "8855350e81d45c45": "Länken har tagits bort eller gått ut. Länka maskinen igen.",
   "97e4c50a99272f63": "Kunde inte svara på begäran. Försök igen.",
   "f71597ae3afaef44": "{first} och {second}",
   "4047174839a16714": "{first} och {last}",

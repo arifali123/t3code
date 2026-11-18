@@ -81,6 +81,7 @@
   "289ec1df10840137": "Kunde inte länka: den andra miljön nekade",
   "21be308917bd450e": "Kunde inte länka: {failure}",
   "acd01e781e2355cc": "Begäran avslutades",
+  "8855350e81d45c45": "Länken har tagits bort eller gått ut. Länka maskinen igen.",
   "97e4c50a99272f63": "Kunde inte svara på begäran. Försök igen.",
   "f71597ae3afaef44": "{first} och {second}",
   "4047174839a16714": "{first} och {last}",
@@ -3509,6 +3510,7 @@
     },
     " som en annan dator kan nå. Ange dess https- eller Tailscale-adress."
   ],
+  "dc9a0b68d101e904": "Redan länkad. Om du länkar igen förnyas den med den åtkomst du väljer.",
   "7ebb23e6bf9b19e8": "Parkopplingskod",
   "e8235ebb43ad7228": "Skapa en länk på en dator: Inställningar → Delning och åtkomst → Auktoriserade klienter → Skapa länk, och klistra sedan in koden här.",
   "a974e6c3c613e452": [
@@ -8605,7 +8607,6 @@
   "fb71127e5746a6bc": "Från Delning och åtkomst där, eller t3 pair",
   "130e51beb6cf5aad": "Länka en miljö",
   "122c3e355699e69d": "Agenter här kan sedan starta, skicka meddelanden till och vänta på trådar där. Den visas under Auktoriserade klienter i miljöns Delning och åtkomst, där den kan återkallas.",
-  "dc9a0b68d101e904": "Redan länkad. Om du länkar igen förnyas den med den åtkomst du väljer.",
   "2fbcbe2d8c56a245": "Föredra",
   "479a7eeae96511fc": "Normal",
   "fd16014a2f23dea9": "Mer sällan",

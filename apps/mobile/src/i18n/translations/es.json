@@ -81,6 +81,7 @@
   "289ec1df10840137": "No se pudo vincular: el otro entorno lo rechazó",
   "21be308917bd450e": "No se pudo vincular: {failure}",
   "acd01e781e2355cc": "Solicitud finalizada",
+  "8855350e81d45c45": "Ese vínculo se eliminó o caducó. Vuelve a vincular la máquina.",
   "97e4c50a99272f63": "No se pudo responder a la solicitud. Inténtalo de nuevo.",
   "f71597ae3afaef44": "{first} y {second}",
   "4047174839a16714": "{first} y {last}",

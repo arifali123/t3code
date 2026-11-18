@@ -81,6 +81,7 @@
   "289ec1df10840137": "Could not link: the other environment refused",
   "21be308917bd450e": "Could not link: {failure}",
   "acd01e781e2355cc": "Request ended",
+  "8855350e81d45c45": "That link was removed or expired. Link the machine again.",
   "97e4c50a99272f63": "Could not answer the request. Try again.",
   "f71597ae3afaef44": "{first} and {second}",
   "4047174839a16714": "{first}, and {last}",
